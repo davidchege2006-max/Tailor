@@ -1,0 +1,2 @@
+# Tailor
+Forex signal bot
